@@ -1,0 +1,38 @@
+#r1{
+    background-color: #0f172b;
+    height: 80px;
+    width: 1595px;
+   
+}
+#navbar1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 700px;
+}
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 220px;
+}
+#navi{
+    height: 80px;
+    float: left;
+}
+.butt{
+    height: 50px;
+    width: 300px;
+    background-color: #FEA116;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color:white;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+}
