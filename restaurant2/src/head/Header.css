@@ -36,3 +36,28 @@ a{
     font-weight: 500;
     text-decoration: none;
 }
+
+#buth{
+    color: white;
+    font-size: 20px;
+
+}
+#logo{
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin-top: 5px;
+    
+}
+#loh1{
+    color: #FEA116;
+    height: 70px;
+    width: 40px;
+    font-size: 50px;
+    float: left;
+    padding-top: 5px;
+}
+
+a:hover{
+    color: #FEA116;
+}
