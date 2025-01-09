@@ -41,3 +41,55 @@
     box-shadow: 9px 9px 9px 5px lightgrey;  
     background-color: whitesmoke;
 }
+
+box1:hover{
+    background-color: #FEA116;
+    color: white;
+}
+.box2:hover{
+    background-color: #FEA116;
+    color: white;
+}
+.box3:hover{
+    background-color: #FEA116;
+    color: white;
+}
+.box4:hover{
+    background-color: #FEA116;
+    color: white;
+}
+
+img{
+    height: 60px;
+    width: 60px;
+}
+
+#row1{
+    height: 45%;
+    width: 100%;
+    /* background-color: aqua; */
+}
+#ico{
+    height: 80px;
+    width: 80px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+#row2{
+    height: 55%;
+    width: 100%;
+}
+
+
+.box1:hover{
+    scale: 1.1;
+}
+.box2:hover{
+    scale: 1.1;
+}
+.box3:hover{
+    scale: 1.1;
+}
+.box4:hover{
+    scale: 1.1;
+}
