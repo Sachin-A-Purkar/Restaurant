@@ -1,0 +1,43 @@
+#main6{
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box1{
+    height: 300px;
+    width: 20%;
+    float: left;
+    box-shadow: 9px 9px 9px 5px lightgrey;  
+    background-color: whitesmoke;
+  
+}
+.box2{
+    height: 300px;
+    width: 20%;
+    float: left;
+    box-shadow: 9px 9px 9px 5px lightgrey;  
+    background-color: whitesmoke;
+}
+.box3{
+    height: 300px;
+    width: 20%;
+    float: left;
+    box-shadow: 9px 9px 9px 5px lightgrey;  
+    background-color: whitesmoke;
+}
+.box4{
+    height: 300px;
+    width: 20%;
+    float: left;
+    box-shadow: 9px 9px 9px 5px lightgrey;  
+    background-color: whitesmoke;
+}
