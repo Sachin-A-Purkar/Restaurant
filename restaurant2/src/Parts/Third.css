@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playwrite+CU:wght@100..400&family=Sevillana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+#div3{
+    height: 780px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#row7{
+    height: 700px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#r{
+    height: 700px;
+    /* background-color: blueviolet; */
+}
+#drow1{
+    height: 50%;
+    width: 100%;
+    /* background-color: aqua; */
+}
+#drow2{
+    height: 50%;
+    width: 100%;
+    /* background-color: violet; */
+}
+#im1{
+    height: 102%;
+    width: 102%;
+    margin-top: 3%; 
+    border-radius: 4px;
+}
+
+#im2{
+    height: 70%;
+    width: 70%;
+    margin-top: 34%;
+    margin-right: 30%;
+    border-radius: 4px;
+}
+#im3{
+    height: 70%;
+    width: 70%;
+    margin-bottom: 34%;
+    margin-left: 32%;
+    border-radius: 4px;
+}
+#im4{
+    margin-bottom: 2%; 
+    height: 102%;
+    width: 102%;  
+    border-radius: 4px;
+
+}
+
+#r2{
+    height: 700px;
+    
+}
+#row8{
+    height: 30%;
+    width: 100%;
+    margin-top: 30px;
+}
+#row9{
+    height: 30%;
+    width: 100%;
+}
+#row10{
+    height: 30%;
+    width: 100%;
+}
+
+.but3{
+    color: white;
+    background-color: #FEA116;
+    height: 50px;
+    width: 200px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 30px;
+}
+
+#abut{
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 40px;
+    color: #ff9b3d;
+}
+
+#icon3{
+    height: 50px;
+    width: 50px;
+}
+#hadi{
+    font-family: "Varela Round", sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+    margin-top: 40px;
+}
+#dash{
+    margin-bottom: 13px;
+    margin-left: 15px;
+}
+#p1{
+    font-size: 20px;
+    margin-top: 30px;
+}
+#p2{
+    font-size: 20px;
+    bottom: 40px;
+}
