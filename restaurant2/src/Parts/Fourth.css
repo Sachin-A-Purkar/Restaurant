@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playwrite+CU:wght@100..400&family=Sevillana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+#main8{
+    height: 1000px;
+    /* display: flex;
+    justify-content: center;
+    align-items:  center; */
+    /* margin-top: 20px; */
+}
+#row11{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+#row12{
+    height: 900px;
+    width: 100%;
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+}
+#rule{
+    height: 50px;
+    width: 100px;
+}
+#headi{
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 40px;
+    color: #ff9b3d;
+}
+#headi2{
+    font-family: "Varela Round", sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+}
+
+#nat{
+    width: 300px;
+    background-color: transparent;
+}
+
+.nav-link:active{
+    background-color: transparent;
+    color: #ff9b3d;
+    border-bottom: 3px solid orange;
+}
+
+#img11{
+    height: 150px;
+    width: 150px;
+}
+/* #body11{
+    height: 500px;
+    width: 100%;
+    background-color: blue;
+}
+
+#home{
+    height: 500px;
+}
+#rt1{
+    height: 500px;
+    width: 100%;
+}
+#dd{
+    height: 500px;
+} */
+#rowm1{
+    height: 200px;
+}
+#men1{
+    height: 200px;
+}
+#navt{
+    width: 300px;
+    margin-left: 50px;
+}
+#tablw{
+    height: 600px;
+    width: 90%;
+}
+#i8{
+    height: 100px;
+    width: 100px;
+}
+#i9{
+    height: 100px;
+    width: 100px;
+}
+#i10{
+    height: 100px;
+    width: 100px;
+}
+#i11{
+    height: 100px;
+    width: 100px;
+}
+#i13{
+    height: 100px;
+    width: 100px;
+}
+#i14{
+    height: 100px;
+    width: 100px;
+}
+#i15{
+    height: 100px;
+    width: 100px;
+}
