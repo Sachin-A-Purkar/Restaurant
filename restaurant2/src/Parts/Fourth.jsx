@@ -208,4 +208,97 @@ export default function Fourth(prop) {
                 </div>
 
 
-                
+                <div id="menu2" className="container tab-pane fade"><br/>
+                  <h3>Menu 2</h3>
+                  <table id='tablw'>
+                    <tr style={{height:"100px",width:"50%"}}>
+                      <td>
+                        <td><img src={prop.img8} alt='' id='i8'/></td>
+                        <td>
+                          <tr><h3>Chicken Burger</h3></tr>
+                          <tr style={{borderTop:"1px solid grey"}}>
+                            <h6>psum ipsum clita erat amet dolor justo diam</h6>
+                          </tr>
+                        </td>
+                      </td>
+                      <td>
+                        <td><img src={prop.img9} alt='' id='i9'/></td>
+                        <td>
+                          <tr><h3>Chicken Burger</h3></tr>
+                          <tr style={{borderTop:"1px solid grey"}}>
+                            <h6>psum ipsum clita erat amet dolor justo diam</h6>
+                          </tr>
+                        </td>
+                      </td>
+                    </tr>
+                     {/* Second row */}
+                    <tr style={{height:"100px",width:"50%"}}>
+                      <td>
+                        <td><img src={prop.img10} alt='' id='i8'/></td>
+                        <td>
+                          <tr><h3>Chicken Burger</h3></tr>
+                          <tr style={{borderTop:"1px solid grey"}}>
+                            <h6>psum ipsum clita erat amet dolor justo diam</h6>
+                          </tr>
+                        </td>
+                      </td>
+                      <td>
+                        <td><img src={prop.img11} alt='' id='i9'/></td>
+                        <td>
+                          <tr><h3>Chicken Burger</h3></tr>
+                          <tr style={{borderTop:"1px solid grey"}}>
+                            <h6>psum ipsum clita erat amet dolor justo diam</h6>
+                          </tr>
+                        </td>
+                      </td>
+                    </tr>
+                     {/* third row */}
+                    <tr style={{height:"100px",width:"50%"}}>
+                      <td>
+                        <td><img src={prop.img12} alt='' id='i8'/></td>
+                        <td>
+                          <tr><h3>Chicken Burger</h3></tr>
+                          <tr style={{borderTop:"1px solid grey"}}>
+                            <h6>psum ipsum clita erat amet dolor justo diam</h6>
+                          </tr>
+                        </td>
+                      </td>
+                      <td>
+                        <td><img src={prop.img13} alt='' id='i9'/></td>
+                        <td >
+                          <tr><h3>Chicken Burger</h3></tr>
+                          <tr style={{borderTop:"1px solid grey"}}>
+                            <h6>psum ipsum clita erat amet dolor justo diam</h6>
+                          </tr>
+                        </td>
+                      </td>
+                    </tr>
+                     {/* fouth row */}
+                    <tr style={{height:"100px",width:"50%"}}>
+                      <td>
+                        <td><img src={prop.img14} alt='' id='i8'/></td>
+                        <td>
+                          <tr><h3>Chicken Burger</h3></tr>
+                          <tr style={{borderTop:"1px solid grey"}}>
+                            <h6>psum ipsum clita erat amet dolor justo diam</h6>
+                          </tr>
+                        </td>
+                      </td>
+                      <td>
+                        <td><img src={prop.img15} alt='' id='i9'/></td>
+                        <td>
+                          <tr><h3>Chicken Burger</h3></tr>
+                          <tr style={{borderTop:"1px solid grey"}}>
+                            <h6>psum ipsum clita erat amet dolor justo diam</h6>
+                          </tr>
+                        </td>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div></center>
+            </div>
+      </div>
+  </div>
+  )
+}
