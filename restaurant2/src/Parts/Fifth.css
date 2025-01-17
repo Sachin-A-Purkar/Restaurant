@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playwrite+CU:wght@100..400&family=Sevillana&display=swap');
+
+#main12{
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#row13{
+    height: 700px;
+    width: 100%;
+    
+}
+#form1{
+    height: 100%;
+    width: 50%;
+}
+#form2{
+    height: 100%;
+    width: 50%;
+    background-color: #0F172B;
+}
+.for1{
+    height: 20%;
+    width: 100%;
+}
+.for2{
+    height: 80%;
+    width: 100%;
+}
+#heading5{
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+    font-style: normal;
+    color: #ff9b3d;
+}
+#heading6{
+    color:#ff9b3d ;
+}
