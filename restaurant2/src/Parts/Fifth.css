@@ -37,3 +37,31 @@
 #heading6{
     color:#ff9b3d ;
 }
+
+#ro1{
+    height: 100px;
+    width: 90%;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+#ro2{
+    height: 100px;
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#ro3{
+    height: 100px;
+    width: 87%;
+    margin-left: 63px;
+    margin-top: 30px;
+}
+.but5{
+    color: white;
+    background-color: #FEA116;
+    height: 70px;
+    width: 620px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 50px;
+}
