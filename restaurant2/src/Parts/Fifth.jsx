@@ -2,12 +2,6 @@ import React, { useState } from 'react'
 import "./Fifth.css"
 
 export default function Fifth(prop) {
-  // let [a,abc]=useState("");
-  // let [b,def]=useState("");
-  // let [c,ghi]=useState("");
-  // let [d,jkl]=useState("");
-  // let [e,mno]=useState("");
-
   let [a,abc]=useState("");
   let [b,def]=useState("");
   let [c,ghi]=useState("");
