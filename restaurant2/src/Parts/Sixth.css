@@ -27,3 +27,42 @@
     border: 3px solid lightgray;
   }
   
+  #imt1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  #box5:hover {
+    height: 350px;
+  }
+  
+  /* Initially hide the social icons */
+  .social-icons {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  /* Show social icons on hover */
+  #box5:hover .social-icons {
+    opacity: 1;
+  }
+  
+  .social-icons svg {
+    font-size: 24px;
+   
+    border-radius: 50%;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* .social-icons svg:hover {
+    background-color: #ff6b6b;
+  } */
+  
