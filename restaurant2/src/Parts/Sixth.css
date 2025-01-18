@@ -1,0 +1,29 @@
+#main9 {
+    height: 600px;
+    width: 100%;
+    
+  }
+  
+  
+  #rw2 {
+    height: 150px;
+    width: 100%;
+    
+  }
+  #rw1 {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  #box5 {
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    box-shadow: 12px 12px 5px lightgray;
+    border: 3px solid lightgray;
+  }
+  
