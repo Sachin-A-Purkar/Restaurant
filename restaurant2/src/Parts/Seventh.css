@@ -1,0 +1,11 @@
+#slid{
+    height: 250px;
+     border: 2px solid orange;
+ }
+ #slide{
+     height: 200px;
+     margin-left: 50px;
+     margin-right: 30px;
+     margin-top: 25px;
+     background-color: aqua;
+ }
